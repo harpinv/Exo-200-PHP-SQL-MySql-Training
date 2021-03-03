@@ -4,7 +4,7 @@ Nous allons faire une web app qui va lister les randonnées à l'île de la Réu
 
 # Création de la base de données
 Je vous ai créé la base de données. 
-Vous pouvez la récupérer *database/reunion_island.sql* pour l'importer. 
+Vous pouvez la base de données et la table. 
 Comme vous l'avez déjà vu, c'est plus facile de le faire avec Phpmyadmmin.
 
 Cette base de données ne contient, pour l'instant, que la table *hiking* (randonnée)
